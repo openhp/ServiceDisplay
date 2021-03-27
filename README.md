@@ -9,7 +9,7 @@ If you want a compact and visual tool for your diagnostic purposes, this device 
 If you don't need expert info from sensors and additional start/stop messages: check [Remote Display page](https://github.com/openhp/Display/), here you'll find end-user device with a very simple interface.<br><br>
 
 ## Bill Of Materials
-BOM is very short:<br><br>
+BOM is very short:
 | Part | Quantity |
 | ------------- | ------------- |
 | 100 Ω 0.25 Watt resistor | 2 |
@@ -34,7 +34,7 @@ Mount converter modules, LCD and Arduino Mega.<br>
 
 <br>
 <img src="./m_tft_power_wiring.jpg" width="800"><br><br>
-Signal connections wiring:
+Signal connections wiring:<br>
 
 - solder DE to RE (both pins together),
 - Internal DI to A8,
