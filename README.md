@@ -12,7 +12,7 @@ BOM is very short:
 <br><br>
 
 Display is as pictured below<br>
-<img src="./m_tft_photo_back.jpg" width="400"><img src="./m_tft_photo_front.jpg" width="400"><br><br>
+<img src="./m_tft_photo_back.jpg" width="400"> <img src="./m_tft_photo_front.jpg" width="400"><br><br>
 
 ## Assembly and wiring
 
