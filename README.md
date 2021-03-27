@@ -1,11 +1,11 @@
 ## Service Display
 
-<b>The Service Display is a quickly assembled tool, that allows to connect [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) to get maximum available information from sensors and show it graphically.</b>
+<b>The Service Display is a quickly assembled tool, that allows you to connect Valden [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) to get maximum available information from sensors and show it graphically.</b>
 
 ## Preamble
-One day i'v realised that netbook with a serial console is very good diagnostic tool, but i want more compact tool to get maximum available information from heat pump. So this "Quickly Assembled Service Display" appeared. It fits everywhere and with a good power bank it can works 2-3 days long, without any additional power source. The diagnostic display is build from scratch, no PCB and housing here (and no plans to create it), because i do not see this device as a permanent-mounted display for the end user.<br>
-It you want a compact and visual tool for your diagnostic purposes this device is for you.<br>
-if you don't need expert info from sensors and additional start/stop messages: check [Remote Display page](https://github.com/openhp/Display/), here you'll find end-user device with very simple interface.<br><br>
+One day I've realized that a netbook with a serial console is a very good diagnostic tool, but I want a more compact tool to get maximum available information from a Heat Pumps. So, this "Quickly Assembled Service Display" appeared. It fits everywhere and with a good power bank it can work 2-3 days long, without any additional power source. The diagnostic display is build from scratch, no PCB and housing here (and no plans to create it), because I do not see this device as a permanent-mounted display for the end user.<br>
+If you want a compact and visual tool for your diagnostic purposes, this device is for you.<br>
+If you don't need expert info from sensors and additional start/stop messages: check [Remote Display page](https://github.com/openhp/Display/), here you'll find end-user device with a very simple interface.<br><br>
 <img src="./m_tft_mainscreen.jpg" width="400"><br>
 <br><br>
 
