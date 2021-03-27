@@ -24,18 +24,16 @@ This is the cheapest one and widely available touchscreen LCD you can find.<br>
 <img src="./m_tft_photo_back.jpg" width="400"> <img src="./m_tft_photo_front.jpg" width="400"><br><br>
 
 ## Assembly and wiring
-
-Mount converter modules, LCD and Arduino Mega<br>
-+5V, GND and signal ground wiring: 
+Mount converter modules, LCD and Arduino Mega.<br>
++5V, GND and signal ground wiring:
 - power source from both rs485 converters to 5V power at Mega board,
 - GND from both GND,
-- solder 100Ω resistors for both "internal" and "external": first out to ground, second to hole
-- place a short tail of wire to nearest hole and solder to resistor output at back side
+- solder 100 Ω resistors for both "internal" and "external" converters: one output to ground and one to hole,
+- place a short tail of wire to the nearest hole and solder to resistor output at back side.
 
 <br>
 <img src="./m_tft_power_wiring.jpg" width="800"><br>
-
-Signal connections wiring: <br>
+Signal connections wiring:
 - solder DE to RE (both pins together)
 - Internal DI to A8
 - Internal DE+RE to A9
@@ -47,10 +45,8 @@ Signal connections wiring: <br>
 
 <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br>
-
-Finally use spring-loaded connectors. Fast installation-ready device will looks like this:<br>
-<img src="./m_tft_final_wiring.jpg" width="800"><br><br><br>
-
+Finally, use spring-loaded connectors. A fast installation-ready device will look like this:
+<img src="./m_tft_final_wiring.jpg" width="800"><br><br>
 
 Example of connection and usage at server side [here](https://github.com/openhp/HP-integration-example).<br>
 You can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br> 
