@@ -25,7 +25,7 @@ Display is as pictured below. Usually selled as "Arduino UNO TFT LCD". LCD drive
 ## Assembly and wiring
 
 Mount converter modules, LCD and Arduino Mega.<br>
-+5V, GND and signal ground wiring: power source to arduino power (i have soldered wires directly to pins), add two "Signal Ground" wires via 100Ω resistor<br>
++5V, GND and signal ground wiring: power source to 5V power and GND (solder wires directly to pins), add two "Signal Ground" wires via 100Ω resistor<br>
 <img src="./m_tft_power_wiring.jpg" width="400"><br>
 
 RS485 connections wiring: <br>
