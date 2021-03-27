@@ -34,14 +34,14 @@ Mount converter modules, LCD and Arduino Mega.<br>
 <br>
 <img src="./m_tft_power_wiring.jpg" width="800"><br>
 Signal connections wiring:
-- solder DE to RE (both pins together)
-- Internal DI to A8
-- Internal DE+RE to A9
-- Internal RO to A10
-- External DI to A11
-- External DE+RE to A12
-- External RO to A13
-- A and B wires
+- solder DE to RE (both pins together),
+- Internal DI to A8,
+- Internal DE+RE to A9,
+- Internal RO to A10,
+- External DI to A11,
+- External DE+RE to A12,
+- External RO to A13,
+- A and B wires.
 
 <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br>
