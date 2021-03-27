@@ -49,7 +49,7 @@ Signal connections wiring: <br>
 <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br>
 
-Finally use spring connectors. Device ready to fast installation will looks like this:<br>
+Finally use spring connectors. Fast installation-ready device will looks like this:<br>
 {-final result picture here-}<br><br>
 
 
@@ -69,7 +69,7 @@ Also all library files (*.cpp* and *.h*) from Service Display repository must me
 That's all, easy and fast.<br><br>
 
 ## Start and usage
-Just power on the device. Next video shows you how it works.<br>
+Just power on the device. Next video shows you how does it works with Heat Pump.<br>
 You can find full disgnostic messages list [at the Valden Heat Pump Controller page](https://github.com/openhp/HeatPumpController/) appendexes.<br>
 {-video here-}
 
