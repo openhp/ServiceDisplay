@@ -26,6 +26,7 @@ This is the cheapest one and widely available touchscreen LCD you can find.<br>
 ## Assembly and wiring
 Mount converter modules, LCD and Arduino Mega.<br>
 +5V, GND and signal ground wiring:
+
 - power source from both rs485 converters to 5V power at Mega board,
 - GND from both GND,
 - solder 100 Ω resistors for both "internal" and "external" converters: one output to ground and one to hole,
@@ -34,6 +35,7 @@ Mount converter modules, LCD and Arduino Mega.<br>
 <br>
 <img src="./m_tft_power_wiring.jpg" width="800"><br>
 Signal connections wiring:
+
 - solder DE to RE (both pins together),
 - Internal DI to A8,
 - Internal DE+RE to A9,
