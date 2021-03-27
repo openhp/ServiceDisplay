@@ -65,13 +65,13 @@ The process is the same as for others Arduinos:
 - press the "Upload" button in the interface.
 
 For successful compilation, you must have "Adafruit_GFX" and "Adafruit touch screen" installed (see Tools -> Manage Libraries).<br>
-Also all library files (*.cpp* and *.h*) from Service Display repository must me downloaded and locatet at the same directory as a main *.ino* file.<br>
+Also all library files (*.cpp* and *.h*) from [Service Display repository](https://github.com/openhp/ServiceDisplay/) must me downloaded and locatet at the same directory as a main *.ino* file.<br>
 That's all, easy and fast.<br><br>
 
 ## Start and usage
 Just power on the device.<br>
 Next video shows you how does it works with Heat Pump. For text messages and abbrevations see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
-Interface shows all key temperatures at a little simplified standard refrigeration sheme, so no more comments.<br>
+Interface shows all key temperatures at a slightly simplified standard refrigeration sheme, so no more comments.<br>
 {-video here-}<br>
 
 ## License
