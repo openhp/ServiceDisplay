@@ -65,7 +65,7 @@ The process is the same as for others Arduinos:
 - press the "Upload" button in the interface.
 
 For successful compilation, you must have "Adafruit_GFX" and "Adafruit touch screen" installed (see Tools -> Manage Libraries).<br>
-Also all library files (*.cpp* and *.h*) from [Service Display repository](https://github.com/openhp/ServiceDisplay/) must me downloaded and locatet at the same directory as a main *.ino* file.<br>
+Also all library files (*.cpp* and *.h*) from [Service Display repository](https://github.com/openhp/ServiceDisplay/) must me downloaded and located at the same directory as a main *.ino* file.<br>
 That's all, easy and fast.<br><br>
 
 ## Start and usage
