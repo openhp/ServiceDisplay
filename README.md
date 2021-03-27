@@ -68,7 +68,7 @@ That's all, easy and fast.<br><br>
 
 ## Start and usage
 Just power on the device. Next video shows you how it works.<br>
-You can find full disgnostic messages and abbrevations list [at the Valden Heat Pump Controller page](https://github.com/openhp/HeatPumpController/) appendexes.<br>
+You can find full disgnostic messages list [at the Valden Heat Pump Controller page](https://github.com/openhp/HeatPumpController/) appendexes.<br>
 {-video here-}
 
 ## License
