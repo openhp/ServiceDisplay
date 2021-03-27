@@ -41,8 +41,11 @@ Signal connections wiring: <br>
 - External DE+RE to A12
 - External RO to A13
 - A and B wires
+
+<br>
 <img src="./m_tft_485_wiring.jpg" width="400"><br>
-Add spring connectors. Device ready to fast installation will looks like this:<br>
+
+Finally add spring connectors. Device ready to fast installation will looks like this:<br>
 {-final result picture here-}<br><br>
 
 
