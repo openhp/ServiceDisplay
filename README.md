@@ -53,7 +53,7 @@ Finally use spring connectors. Device ready to fast installation will looks like
 {-final result picture here-}<br><br>
 
 
-For example of connection and usage at server sige [look here](https://github.com/openhp/HP-integration-example).<br>
+Example of connection and usage at server side [here](https://github.com/openhp/HP-integration-example).<br>
 You can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br> 
 
 ## Firmware upload
