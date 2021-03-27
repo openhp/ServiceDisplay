@@ -51,7 +51,7 @@ Finally, use spring-loaded connectors. A fast installation-ready device will loo
 <img src="./m_tft_final_wiring.jpg" width="800"><br><br>
 
 Example of connection and usage at server side [here](https://github.com/openhp/HP-integration-example).<br>
-You can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br> 
+You can omit "to server" converter and connection if you use this device as a portable-only tool.<br> 
 
 ## Firmware upload
 The process is the same as for others Arduinos:
