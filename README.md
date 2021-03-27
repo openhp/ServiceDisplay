@@ -7,7 +7,7 @@ One day i'v realised that netbook with a serial console is very good diagnostic 
 It you want a compact and visual tool for your diagnostic purposes this device is for you.<br>
 if you not needed expert info from sensors check [Remote Display page](https://github.com/openhp/Display/), there you'll find end-user device.<br><br>
 
-{-Main look powered on picture here-}
+{-Main look powered on picture here-}<br><br>
 
 ## Bill Of Materials
 BOM is very short:
@@ -32,8 +32,8 @@ RS485 connections wiring: <br>
 <img src="./m_tft_485_wiring.jpg" width="400"><br>
 
 Of course you can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br>
-Next: I prefer to use wago connectors to fast wiring on plase, so mine final result looks like this:
-{-final result picture here-}
+Next: I prefer to use wago connectors to fast wiring on plase, so mine final result looks like this:<br>
+{-final result picture here-}<br><br>
 
 ## Firmware upload
 The process is the same as for others Arduinos:
@@ -48,5 +48,15 @@ Also all library files (*.cpp* and *.h*) from Service Display repository must me
 That's all, easy and fast.<br><br>
 
 ## Start and usage
-Just power on the device. Next video shows you how it works.
+Just power on the device. Next video shows you how it works.<br>
+You can find full disgnostic messages and abbrevations list [at the Valden Heat Pump Controller page](https://github.com/openhp/HeatPumpController/) appendexes.<br>
 {-video here-}
+
+## License
+GPLv3. <br>
+This product is distributed in the hope that it will be useful,	but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.<br>
+
+## Author
+<br>
+gonzho АТ web.de (c) 2018-2021<br>
+
