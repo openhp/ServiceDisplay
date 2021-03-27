@@ -70,7 +70,7 @@ That's all, easy and fast.<br><br>
 
 ## Start and usage
 Just power on the device.<br>
-Next video shows you how does it works with Heat Pump. For text messages and abbrevations see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
+For text messages and abbrevations you'll see on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
 Interface shows all key temperatures at a slightly simplified standard refrigeration sheme, so no more comments.<br>
 <img src="./m_tft_howitlooks.jpg" width="800"><br>
 
