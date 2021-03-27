@@ -42,11 +42,12 @@ Signal connections wiring: <br>
 - External RO to A13
 - A and B wires
 <img src="./m_tft_485_wiring.jpg" width="400"><br>
+Add spring connectors. Device ready to fast installation will looks like this:<br>
+{-final result picture here-}<br><br>
+
 
 For example of connection and usage at server sige [look here](https://github.com/openhp/HP-integration-example).<br>
 You can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br> 
-Next: I prefer to use wago connectors to fast wiring on plase, so mine final result looks like this:<br>
-{-final result picture here-}<br><br>
 
 ## Firmware upload
 The process is the same as for others Arduinos:
