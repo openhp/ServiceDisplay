@@ -49,7 +49,7 @@ Signal connections wiring: <br>
 <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br>
 
-Finally add spring connectors. Device ready to fast installation will looks like this:<br>
+Finally use spring connectors. Device ready to fast installation will looks like this:<br>
 {-final result picture here-}<br><br>
 
 
