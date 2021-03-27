@@ -69,9 +69,10 @@ Also all library files (*.cpp* and *.h*) from Service Display repository must me
 That's all, easy and fast.<br><br>
 
 ## Start and usage
-Just power on the device. Next video shows you how does it works with Heat Pump.<br>
-You can find full disgnostic messages list [at the Valden Heat Pump Controller page](https://github.com/openhp/HeatPumpController/) appendexes.<br>
-{-video here-}
+Just power on the device.<br>
+Next video shows you how does it works with Heat Pump. For text messages and abbrevations see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
+Interface shows all key temperatures at a little simplified standard refrigeration sheme, so no more comments.<br>
+{-video here-}<br>
 
 ## License
 GPLv3. <br>
