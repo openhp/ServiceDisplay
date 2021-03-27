@@ -32,7 +32,7 @@ Mount converter modules, LCD and Arduino Mega.<br>
 - place a short tail of wire to nearest hole and solder to resistor output at back side
 
 <br>
-<img src="./m_tft_power_wiring.jpg" width="400"><br>
+<img src="./m_tft_power_wiring.jpg" width="800"><br>
 
 Signal connections wiring: <br>
 - solder DE to RE (both pins together)
@@ -45,7 +45,7 @@ Signal connections wiring: <br>
 - A and B wires
 
 <br>
-<img src="./m_tft_485_wiring.jpg" width="400"><br>
+<img src="./m_tft_signal_wiring.jpg" width="800"><br>
 
 Finally add spring connectors. Device ready to fast installation will looks like this:<br>
 {-final result picture here-}<br><br>
