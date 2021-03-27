@@ -30,6 +30,8 @@ Mount converter modules, LCD and Arduino Mega.<br>
 - GND from both GND,
 - solder 100Ω resistors for both "internal" and "external": first out to ground, second to hole
 - place a short tail of wire to nearest hole and solder to resistor output at back side
+
+<br>
 <img src="./m_tft_power_wiring.jpg" width="400"><br>
 
 Signal connections wiring: <br>
