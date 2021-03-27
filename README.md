@@ -73,10 +73,12 @@ Just power on the device.<br>
 For text messages and abbrevations you'll see on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
 Interface shows all key temperatures at a slightly simplified standard refrigeration sheme, so no more comments.<br>
 <img src="./m_tft_howitlooks.jpg" width="800"><br>
+<br>
+<img src="./m_tft_howitlooks2.jpg" width="800"><br><br>
 
 ## License
-GPLv3. <br>
-This product is distributed in the hope that it will be useful,	but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.<br>
+GPLv3. <br><br>
+This product is distributed in the hope that it will be useful,	but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.<br><br>
 
 ## Author
 <br>
