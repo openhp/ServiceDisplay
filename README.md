@@ -54,7 +54,7 @@ Example of connection and usage at server side [here](https://github.com/openhp/
 You can omit "to server" converter and connection if you use this device as a portable-only tool.<br> 
 
 ## Firmware upload
-The process is the same as for others Arduinos:
+The process is the same as for other Arduinos:
 - connect USB,
 - start Arduino IDE,
 - open the firmware file,
@@ -62,13 +62,13 @@ The process is the same as for others Arduinos:
 - press the "Upload" button in the interface.
 
 For successful compilation, you must have "Adafruit_GFX" and "Adafruit touch screen" installed (see Tools -> Manage Libraries).<br>
-Also all library files (*.cpp* and *.h*) from [Service Display repository](https://github.com/openhp/ServiceDisplay/) must me downloaded and located at the same directory as a main *.ino* file.<br>
+Also, all library files (*.cpp* and *.h*) from [Service Display repository](https://github.com/openhp/ServiceDisplay/) must me downloaded and located at the same directory as a main *.ino* file.<br>
 That's all, easy and fast.<br><br>
 
 ## Start and usage
-Just power on the device.<br>
-For diagnostic text messages and abbrevations you'll meet on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) page appendexes<br>
-Interface shows all key temperatures at a slightly simplified standard refrigeration sheme, so no more comments.<br>
+Just connect the device to the Heat Pump and Server and plug a power.<br>
+For diagnostic text messages and abbreviations, you'll meet on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) page appendixes.<br>
+Interface shows all key temperatures at a slightly simplified standard refrigeration scheme, so no more comments.<br>
 <img src="./m_tft_howitlooks.jpg" width="800"><br>
 <br>
 <img src="./m_tft_howitlooks2.jpg" width="800"><br><br>
