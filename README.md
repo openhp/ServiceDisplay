@@ -25,10 +25,22 @@ Display is as pictured below. Usually selled as "Arduino UNO TFT LCD". LCD drive
 ## Assembly and wiring
 
 Mount converter modules, LCD and Arduino Mega.<br>
-+5V, GND and signal ground wiring: power source to 5V power and GND (solder wires directly to pins), add two "Signal Ground" wires via 100Ω resistor<br>
++5V, GND and signal ground wiring: 
+- power source from both rs485 converters to 5V power at Mega board,
+- GND from both GND,
+- solder 100Ω resistors for both "internal" and "external": first out to ground, second to hole
+- place a short tail of wire to nearest hole and solder to resistor output at back side
 <img src="./m_tft_power_wiring.jpg" width="400"><br>
 
-RS485 connections wiring: <br>
+Signal connections wiring: <br>
+- solder DE to RE (both pins together)
+- Internal DI to A8
+- Internal DE+RE to A9
+- Internal RO to A10
+- External DI to A11
+- External DE+RE to A12
+- External RO to A13
+- A and B wires
 <img src="./m_tft_485_wiring.jpg" width="400"><br>
 
 For example of connection and usage at server sige [look here](https://github.com/openhp/HP-integration-example).<br>
