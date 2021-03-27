@@ -1,6 +1,6 @@
 ## ServiceDisplay
 
-<b>The Service Display is a quickly assembled tool, that allows to connect [Calden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) to get maximum available information from sensors and show it graphically.</b>
+<b>The Service Display is a quickly assembled tool, that allows to connect [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) to get maximum available information from sensors and show it graphically.</b>
 
 ## Preamble
 One day i'v realised that netbook with a serial console is very good diagnostic tool, but i want more compact tool to get maximum available information from heat pump. So this "Quickly Assembled Service Display" appeared. It fits everywhere and with a good power bank it can works 2-3 days long, without any additional power source. The diagnostic display is build from scratch, no PCB and housing here (and no plans to create it), because i do not see this device as a permanent-mounted display for the end user.<br>
@@ -31,7 +31,8 @@ Mount converter modules, LCD and Arduino Mega.<br>
 RS485 connections wiring: <br>
 <img src="./m_tft_485_wiring.jpg" width="400"><br>
 
-Of course you can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br>
+For example of connection and usage at server sige [look here](https://github.com/openhp/HP-integration-example).<br>
+You can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br> 
 Next: I prefer to use wago connectors to fast wiring on plase, so mine final result looks like this:<br>
 {-final result picture here-}<br><br>
 
