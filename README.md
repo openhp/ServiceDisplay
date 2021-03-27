@@ -1,4 +1,4 @@
-## ServiceDisplay
+## Service Display
 
 <b>The Service Display is a quickly assembled tool, that allows to connect [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) to get maximum available information from sensors and show it graphically.</b>
 
@@ -70,7 +70,7 @@ That's all, easy and fast.<br><br>
 
 ## Start and usage
 Just power on the device.<br>
-For text messages and abbrevations you'll see on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
+For diagnostic text messages and abbrevations you'll meet on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) appendexes<br>
 Interface shows all key temperatures at a slightly simplified standard refrigeration sheme, so no more comments.<br>
 <img src="./m_tft_howitlooks.jpg" width="800"><br>
 <br>
