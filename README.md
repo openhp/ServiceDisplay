@@ -7,7 +7,7 @@ One day i'v realised that netbook with a serial console is very good diagnostic 
 It you want a compact and visual tool for your diagnostic purposes this device is for you.<br>
 if you not needed expert info from sensors check [Remote Display page](https://github.com/openhp/Display/), there you'll find end-user device.<br><br>
 
-{-Main look picture here-}
+{-Main look powered on picture here-}
 
 ## Bill Of Materials
 BOM is very short:
@@ -15,13 +15,38 @@ BOM is very short:
 | Part | Quantity |
 | ------------- | ------------- |
 | 100Ω 0.25 Watt resistor	| 2	|
-| Arduino rs485 module	| 2	|
+| Arduino rs485 converter module	| 2	|
 | 2.4" Tft Display	| 1	|
 | Arduino Mega	| 1	|
 
-Display is as pictured below<br>
+Display is as pictured below. Usually selled as "Arduino UNO TFT LCD". LCD driver chip is ILI9325.<br>This is the cheapest one and widely available touhscreen LCD you can find.<br>
 <img src="./m_tft_photo_back.jpg" width="400"> <img src="./m_tft_photo_front.jpg" width="400"><br><br>
 
 ## Assembly and wiring
 
+Mount converter modules, LCD and Arduino Mega.<br>
++5V, GND and signal ground wiring: power source to arduino power (i have soldered wires directly to pins), add two "Signal Ground" wires via 100Ω resistor<br>
+<img src="./m_tft_power_wiring.jpg" width="400"><br>
 
+RS485 connections wiring: <br>
+<img src="./m_tft_485_wiring.jpg" width="400"><br>
+
+Of course you can ommit "to server" converter and connection if you'll use this device only as portable-only tool.<br>
+Next: I prefer to use wago connectors to fast wiring on plase, so mine final result looks like this:
+{-final result picture here-}
+
+## Firmware upload
+The process is the same as for others Arduinos:
+- connect USB,
+- start Arduino IDE,
+- open the firmware file,
+- select board and MCU in the Tools menu (hint: we are using "Mega" board),
+- press the "Upload" button in the interface.
+
+For successful compilation, you must have "Adafruit_GFX" and "Adafruit touch screen" installed (see Tools -> Manage Libraries).<br>
+Also all library files (*.cpp* and *.h*) from Service Display repository must me downloaded and locatet at the same directory as a main *.ino* file.<br>
+That's all, easy and fast.<br><br>
+
+## Start and usage
+Just power on the device. Next video shows you how it works.
+{-video here-}
