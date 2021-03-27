@@ -50,7 +50,7 @@ Signal connections wiring: <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br>
 
 Finally use spring-loaded connectors. Fast installation-ready device will looks like this:<br>
-{-final result picture here-}<br><br>
+<img src="./m_tft_final_wiring.jpg" width="800"><br><br><br>
 
 
 Example of connection and usage at server side [here](https://github.com/openhp/HP-integration-example).<br>
