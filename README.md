@@ -5,7 +5,7 @@
 ## Preamble
 One day i'v realised that netbook with a serial console is very good diagnostic tool, but i want more compact tool to get maximum available information from heat pump. So this "Quickly Assembled Service Display" appeared. It fits everywhere and with a good power bank it can works 2-3 days long, without any additional power source. The diagnostic display is build from scratch, no PCB and housing here (and no plans to create it), because i do not see this device as a permanent-mounted display for the end user.<br>
 It you want a compact and visual tool for your diagnostic purposes this device is for you.<br>
-if you not needed expert info from sensors check [Remote Display page](https://github.com/openhp/Display/), there you'll find end-user device.<br><br>
+if you don't need expert info from sensors check [Remote Display page](https://github.com/openhp/Display/), there you'll find very simple end-user device.<br><br>
 
 {-Main look powered on picture here-}<br><br>
 
