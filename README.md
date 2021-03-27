@@ -11,7 +11,7 @@ One day i'v realised that netbook with a serial console is very good diagnostic 
 BOM is very short:
 <br><br>
 
-Display is as pictured below
+Display is as pictured below<br>
 <img src="./m_tft_photo_back.jpg" width="400"><img src="./m_tft_photo_front.jpg" width="400"><br><br>
 
 ## Assembly and wiring
