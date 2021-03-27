@@ -24,7 +24,7 @@ This is the cheapest one and widely available touchscreen LCD you can find.<br>
 <img src="./m_tft_photo_back.jpg" width="400"> <img src="./m_tft_photo_front.jpg" width="400"><br><br>
 
 ## Assembly and wiring
-Mount converter modules, LCD and Arduino Mega.<br>
+Mount converter modules, LCD and Arduino Mega.<br><br>
 +5V, GND and signal ground wiring:<br>
 
 - power source from both rs485 converters to 5V power at Mega board,
