@@ -15,6 +15,8 @@ BOM is very short:
 | Part | Quantity |
 | ------------- | ------------- |
 | 100Ω 0.25 Watt resistor	| 2	|
+| prototype PCB 50x70	| 1	|
+| 2.54 legs <br>(used only to hold PCB at arduino) 	| 1	|
 | Arduino rs485 converter module	| 2	|
 | 2.4" Tft Display	| 1	|
 | Arduino Mega	| 1	|
@@ -24,7 +26,7 @@ Display is as pictured below. Usually selled as "Arduino UNO TFT LCD". LCD drive
 
 ## Assembly and wiring
 
-Mount converter modules, LCD and Arduino Mega.<br>
+Mount converter modules, LCD and Arduino Mega<br>
 +5V, GND and signal ground wiring: 
 - power source from both rs485 converters to 5V power at Mega board,
 - GND from both GND,
