@@ -54,7 +54,7 @@ Example of connection and usage at server side [here](https://github.com/openhp/
 You can omit "to server" converter and connection if you use this device as a portable-only tool.<br> 
 
 ## Firmware upload
-The process is the same as for other Arduinos:
+The process is same as for other Arduinos:
 - connect USB,
 - start Arduino IDE,
 - open the firmware file,
