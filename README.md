@@ -67,7 +67,7 @@ That's all, easy and fast.<br><br>
 
 ## Start and usage
 Just connect the device to the Heat Pump and Server and plug a power.<br>
-For diagnostic text messages and abbreviations, you'll meet on the display during usage see [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) page appendixes.<br>
+For diagnostic text messages and abbreviations, you'll see on the display during usage check [Valden Heat Pump Controller](https://github.com/openhp/HeatPumpController/) page appendixes.<br>
 Interface shows all key temperatures at a slightly simplified standard refrigeration scheme, so no more comments.<br>
 <img src="./m_tft_howitlooks.jpg" width="800"><br>
 <br>
