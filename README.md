@@ -14,7 +14,7 @@ BOM is very short:
 | ------------- | ------------- |
 | 100 Ω 0.25 Watt resistor | 2 |
 | prototype PCB 50x70 | 1 |
-| 2.54 legs (used only to hold prototype PCB at Arduino) | 1 |
+| 2.54 legs (used only to hold prototype PCB at Arduino) | few |
 | Arduino rs485 converter module | 2 |
 | 2.4" TFT Display | 1 |
 | Arduino Mega | 1 |
