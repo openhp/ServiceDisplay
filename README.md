@@ -43,7 +43,7 @@ Signal connections wiring:<br><br>
 - External DI to A11,
 - External DE+RE to A12,
 - External RO to A13,
-- A and B wires.
+- insert A and B wires.
 
 <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br><br>
