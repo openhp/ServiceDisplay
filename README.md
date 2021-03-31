@@ -28,8 +28,8 @@ Mount converter modules, LCD and Arduino Mega.<br><br>
 +5V, GND and signal ground wiring:<br>
 
 - power source from both rs485 converters to 5V power at Mega board,
-- GND from both GND,
-- solder 100 Ω resistors for both "internal" and "external" converters: one output to ground and one to hole,
+- GND from both to GND at Mega,
+- solder 100 Ω resistors for both "internal" and "external" converters: one output to GND and one to hole,
 - place a short tail of wire to the nearest hole and solder to resistor output at back side.
 
 <br>
