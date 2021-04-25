@@ -47,7 +47,7 @@ Signal connections wiring:<br><br>
 
 <br>
 <img src="./m_tft_signal_wiring.jpg" width="800"><br><br>
-Finally, use spring-loaded connectors. A fast installation-ready device will look like this:
+Finally, use spring-loaded connectors. A fast-installation ready device will look like this:
 <img src="./m_tft_final_wiring.jpg" width="800"><br><br>
 
 Example of connection and usage at server side [here](https://github.com/openhp/HP-integration-example).<br>
