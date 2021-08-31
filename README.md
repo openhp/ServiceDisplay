@@ -8,6 +8,11 @@ If you want a compact and visual tool for your diagnostic purposes, this device 
 <img src="./m_tft_mainscreen.jpg" width="400"><br>
 If you don't need expert info from sensors and additional start/stop messages: check [Remote Display page](https://github.com/openhp/Display/), here you'll find end-user device with a very simple interface.<br><br>
 
+## Changelog and history
+- Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
+- Jan-Jul 2021: development and testing,
+- Aug 2021: [Service display](https://github.com/openhp/ServiceDisplay/) is tested enough, public access.
+
 ## Bill Of Materials
 BOM is very short:
 | Part | Quantity |
